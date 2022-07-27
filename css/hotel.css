@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+section.sct-form {
+    font-family: monospace;
+    display: flex;
+    background-image: url('../img/pyg.jpg');
+    background-position: 50% 50%;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+
+}
